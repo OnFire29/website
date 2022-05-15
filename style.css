@@ -1,0 +1,65 @@
+
+#titolo-1 {
+    color: yellow;
+    font-size: 50px;
+    font-style: italic;
+}
+
+body {
+    background-image: url(background.gif);
+}
+
+#chisono {
+    color:yellow;
+    font-size: 30px;
+}
+
+#introduzione {
+    color: pink;
+    font-size: 20px;
+}
+
+#lingue {
+    color: yellow;
+    font-size: 30px;
+}
+
+#faccio {
+    color: pink;
+    font-size: 20px;
+}
+
+#ita {
+    color: yellow;
+    font-size: 40px;
+}
+
+#eng {
+    color: yellow;
+    font-size: 40px;
+}
+
+#whoami {
+    color: yellow;
+    font-size: 30px;
+}
+
+#introduction {
+    color:pink;
+    font-size: 20px;
+}
+
+#language {
+    color: yellow;
+    font-size: 30px;
+}
+
+#doing {
+    color: pink;
+    font-size: 20px;
+}
+
+#choose {
+    color: yellowgreen;
+    font-size: 40px;
+}
